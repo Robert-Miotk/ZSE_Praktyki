@@ -27,13 +27,13 @@ public class zadanka {
         System.out.print("Podaj trzecią liczbę: ");
         int trzecia = skaner.nextInt();
 
-        if(pierwsza>druga&&pierwsza>trzecia){
+        if(pierwsza>druga&&pierwsza>trzecia&&pierwsza!=druga&&pierwsza!=trzecia&&druga!=trzecia){
             System.out.print("Pierwsza liczba jest największa.");
         }
-        else if(druga>pierwsza&&druga>trzecia) {
+        else if(druga>pierwsza&&druga>trzecia&&pierwsza!=druga&&pierwsza!=trzecia&&druga!=trzecia) {
             System.out.print("Druga liczba jest największa.");
         }
-            else if(pierwsza==druga||druga==trzecia){
+            else if(pierwsza==druga||pierwsza==trzecia||druga==trzecia){
                 System.out.print("Istnieją dwie lub trzy takie same liczby.");
             }
             else{
@@ -58,10 +58,10 @@ public class zadanka {
         System.out.print("Podaj trzecią liczbę: ");
         int c = skaner.nextInt();
 
-        if(a>b&&a>c){
+        if(a>b&&a>c&&b>c){
             System.out.print("Kolejność malejąca.");
         }
-        else if(b>a&&b>c) {
+        else if(b>a&&b>c||b<a&&b<c) {
             System.out.print("Kolejność niepoprawna.");
         }
         else if(a==b||b==c){
