@@ -27,13 +27,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.zadania">
+  <component name="RunManager" selected="Application.zadanka">
     <configuration name="leckja_basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_week.basics.leckja_basics" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="first_week.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lekcja_statements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_week.statements.lekcja_statements" />
+      <module name="Spotkanie2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first_week.statements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,8 +67,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zadanka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_week.statements.zadanka.zadanka" />
+      <module name="Spotkanie2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first_week.statements.zadanka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadanka" />
+        <item itemvalue="Application.lekcja_statements" />
         <item itemvalue="Application.zadania" />
         <item itemvalue="Application.leckja_basics" />
       </list>
