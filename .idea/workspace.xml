@@ -30,9 +30,9 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.zadańska">
-    <configuration name="ZadaniaPetle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadaniaPetle" />
+  <component name="RunManager" selected="Application.zadannnnnniiiiiiiia">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.loops.Fibonacci" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
@@ -44,12 +44,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lekcja_statements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.statements.lekcja_statements" />
+    <configuration name="arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.arrays.arrays" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.statements.*" />
+          <option name="PATTERN" value="second_week.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.loops" />
+    <configuration name="fibonaczi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.loops.fibonaczi" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.statements.zadanka.zadanka" />
+    <configuration name="zadannnnnniiiiiiiia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.arrays.zadaaaaaania.zadannnnnniiiiiiiia" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.statements.zadanka.*" />
+          <option name="PATTERN" value="second_week.arrays.zadaaaaaania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadannnnnniiiiiiiia" />
+        <item itemvalue="Application.arrays" />
+        <item itemvalue="Application.fibonaczi" />
+        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.zadańska" />
-        <item itemvalue="Application.loops" />
-        <item itemvalue="Application.ZadaniaPetle" />
-        <item itemvalue="Application.zadanka" />
-        <item itemvalue="Application.lekcja_statements" />
       </list>
     </recent_temporary>
   </component>
