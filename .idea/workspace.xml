@@ -30,13 +30,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.zadanejro">
-    <configuration name="arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.arrays.arrays" />
+  <component name="RunManager" selected="Application.zadania_ni">
+    <configuration name="PralkoSuszarka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.PralkoSuszarka" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.arrays.*" />
+          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -44,12 +44,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibonaczi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.fibonaczi" />
+    <configuration name="pralkosuszara (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.metodyundsuszarken.pralkosuszara.pralkosuszara" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.loops.*" />
+          <option name="PATTERN" value="second_week.metodyundsuszarken.pralkosuszara.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multiarrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.multiArrays.multiarrays" />
+    <configuration name="pralkosuszara" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.pralkosuszara" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.multiArrays.*" />
+          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,7 +70,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanejro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="zadanejro (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="second_week.multiarrays.zadanejro.zadanejro" />
       <module name="Spotkanie2" />
       <extension name="coverage">
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadannnnnniiiiiiiia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.arrays.zadaaaaaania.zadannnnnniiiiiiiia" />
+    <configuration name="zadania_ni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.metodyundsuszarken.zadanejro.zadania_ni" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.arrays.zadaaaaaania.*" />
+          <option name="PATTERN" value="second_week.metodyundsuszarken.zadanejro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.zadanejro" />
-        <item itemvalue="Application.multiarrays" />
-        <item itemvalue="Application.zadannnnnniiiiiiiia" />
-        <item itemvalue="Application.arrays" />
-        <item itemvalue="Application.fibonaczi" />
+        <item itemvalue="Application.zadania_ni" />
+        <item itemvalue="Application.pralkosuszara (1)" />
+        <item itemvalue="Application.zadanejro (1)" />
+        <item itemvalue="Application.pralkosuszara" />
+        <item itemvalue="Application.PralkoSuszarka" />
       </list>
     </recent_temporary>
   </component>
