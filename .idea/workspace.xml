@@ -30,13 +30,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.zadania_ni">
-    <configuration name="PralkoSuszarka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.PralkoSuszarka" />
+  <component name="RunManager" selected="Application.zadanie5">
+    <configuration name="Zadanie1wykorzystanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania.Zadanie1wykorzystanie" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
+          <option name="PATTERN" value="third_week.packages.zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -44,12 +44,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pralkosuszara (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.metodyundsuszarken.pralkosuszara.pralkosuszara" />
+    <configuration name="Zadanie2wykorzystanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania.Zadanie2wykorzystanie" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.metodyundsuszarken.pralkosuszara.*" />
+          <option name="PATTERN" value="third_week.packages.zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pralkosuszara" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.pralkosuszara" />
+    <configuration name="Zadanie3wykorzystanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania.Zadanie3wykorzystanie" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
+          <option name="PATTERN" value="third_week.packages.zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanejro (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.multiarrays.zadanejro.zadanejro" />
+    <configuration name="zadanie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania.zadanie4" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.multiarrays.zadanejro.*" />
+          <option name="PATTERN" value="third_week.packages.zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadania_ni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.metodyundsuszarken.zadanejro.zadania_ni" />
+    <configuration name="zadanie5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania.zadanie5" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.metodyundsuszarken.zadanejro.*" />
+          <option name="PATTERN" value="third_week.packages.zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.zadania_ni" />
-        <item itemvalue="Application.pralkosuszara (1)" />
-        <item itemvalue="Application.zadanejro (1)" />
-        <item itemvalue="Application.pralkosuszara" />
-        <item itemvalue="Application.PralkoSuszarka" />
+        <item itemvalue="Application.zadanie5" />
+        <item itemvalue="Application.zadanie4" />
+        <item itemvalue="Application.Zadanie2wykorzystanie" />
+        <item itemvalue="Application.Zadanie1wykorzystanie" />
+        <item itemvalue="Application.Zadanie3wykorzystanie" />
       </list>
     </recent_temporary>
   </component>
