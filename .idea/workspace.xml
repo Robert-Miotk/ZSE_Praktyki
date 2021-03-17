@@ -30,13 +30,18 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.zadanie5">
-    <configuration name="Zadanie1wykorzystanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania.Zadanie1wykorzystanie" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\robUr\Documents\GitHub\ZSE_Praktyki\src\projekt" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.wisielec">
+    <configuration name="PrzykładForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.KolkoIKrzyzyk.PrzykładForEach" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="third_week.packages.zadania.*" />
+          <option name="PATTERN" value="third_week.KolkoIKrzyzyk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -44,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie2wykorzystanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania.Zadanie2wykorzystanie" />
+    <configuration name="masnySnejk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projekt.masnySnejk" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="third_week.packages.zadania.*" />
+          <option name="PATTERN" value="projekt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,25 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie3wykorzystanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania.Zadanie3wykorzystanie" />
+    <configuration name="wisielec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projekt.wisielec" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="third_week.packages.zadania.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="zadanie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania.zadanie4" />
-      <module name="Spotkanie2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="third_week.packages.zadania.*" />
+          <option name="PATTERN" value="projekt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,13 +88,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zmienne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fourth_week.porownywanie.zmienne" />
+      <module name="Spotkanie2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fourth_week.porownywanie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.wisielec" />
+        <item itemvalue="Application.masnySnejk" />
+        <item itemvalue="Application.zmienne" />
+        <item itemvalue="Application.PrzykładForEach" />
         <item itemvalue="Application.zadanie5" />
-        <item itemvalue="Application.zadanie4" />
-        <item itemvalue="Application.Zadanie2wykorzystanie" />
-        <item itemvalue="Application.Zadanie1wykorzystanie" />
-        <item itemvalue="Application.Zadanie3wykorzystanie" />
       </list>
     </recent_temporary>
   </component>
