@@ -36,12 +36,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.wisielec">
-    <configuration name="PrzykładForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.KolkoIKrzyzyk.PrzykładForEach" />
+    <configuration name="Kalkulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.gui.Kalkulator" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="third_week.KolkoIKrzyzyk.*" />
+          <option name="PATTERN" value="third_week.gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +49,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="masnySnejk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="projekt.masnySnejk" />
+    <configuration name="Klawisze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.gui.Klawisze" />
       <module name="Spotkanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="projekt.*" />
+          <option name="PATTERN" value="third_week.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Myszka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.gui.Myszka" />
+      <module name="Spotkanie2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="third_week.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.gui.swing" />
+      <module name="Spotkanie2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="third_week.gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,39 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanie5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania.zadanie5" />
-      <module name="Spotkanie2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="third_week.packages.zadania.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="zmienne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fourth_week.porownywanie.zmienne" />
-      <module name="Spotkanie2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fourth_week.porownywanie.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.wisielec" />
-        <item itemvalue="Application.masnySnejk" />
-        <item itemvalue="Application.zmienne" />
-        <item itemvalue="Application.PrzykładForEach" />
-        <item itemvalue="Application.zadanie5" />
+        <item itemvalue="Application.Kalkulator" />
+        <item itemvalue="Application.Klawisze" />
+        <item itemvalue="Application.Myszka" />
+        <item itemvalue="Application.swing" />
       </list>
     </recent_temporary>
   </component>
